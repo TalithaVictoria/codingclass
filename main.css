@@ -1,10 +1,22 @@
-body {
-	font-size: 0.8em;
-	font-family: arial, sans-serif;
-    color:red;
-    
+.page-navigation {
+  background-color:#990000;
+    height: 50px ;
 }
-strong{ color:teal
-
-
+.page-navigation ul { 
+ list-style:none;
+}
+.page-navigation ul li { 
+ 	padding: 0 15px;  
+    float: left ;
+    line-height: 50px ;
+} 
+.page-navigation ul li a {
+	color:#FFF;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+}
+.page-navigation ul li a:hover {
+	color:#006400;
+    text-decoration: underline;
 }
