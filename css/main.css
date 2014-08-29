@@ -20,3 +20,15 @@
 	color:#006400;
     text-decoration: underline;
 }
+.index-title {
+    color: #000099;
+}
+.video-title {
+	color: #FF0000;
+    text-decoration: underline;
+}
+.favorite-link li a:hover {
+	color:pink;
+    text-decoration:none;
+}
+
