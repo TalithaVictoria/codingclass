@@ -8,3 +8,18 @@ height: 110px;
     color: #fff;
     background: royalblue;
 }
+.main-content {
+	padding: 20px;
+	background-color: lightgray;
+}
+.main-footer{
+	height: 100px;
+	color: #FFF;
+	background: #222;
+}
+.base {
+    padding-top: 50px;
+    color: #FFF;
+    text-align: center;
+    font-size: 24px;
+}
