@@ -1,11 +1,22 @@
 .main-header {
 	padding-right: 50px;
-	font-size: 70px;
-	background-color: #3333AD;
-
+	font-size: 65px;
+	background-color:#373772;
+    padding-left: 200px;
+    padding-bottom: 70px;
 }
 .main-footer {
-	padding-right: 75px;
+	padding-right: 90px;
 	font-size: 14px ;
 	background-color: #724C4C;
+	padding-left: 59px;
+	padding-bottom: 30px;
+}
+.page-navigation {
+	list-style: none;
+
+.{
+	border-bottom: ;
+	border-bottom: 1px solid #000;
+	padding: 45px ;
 }
